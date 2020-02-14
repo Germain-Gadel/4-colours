@@ -32,35 +32,35 @@
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#c748bc"
+                "foreground": "#da1ac6"
             }
         },
         {
             "name": "Number",
             "scope": "constant.numeric",
             "settings": {
-                "foreground": "#FF9D27"
+                "foreground": "#eb9022"
             }
         },
         {
             "name": "Built-in constant",
             "scope": "constant.language",
             "settings": {
-                "foreground": "#FF9D27"
+                "foreground": "#F1F1F1"
             }
         },
         {
             "name": "User-defined constant",
             "scope": "constant.character, constant.other",
             "settings": {
-                "foreground": "#c748bc"
+                "foreground": "#da1ac6"
             }
         },
         {
             "name": "Variable",
             "scope": "variable",
             "settings": {
-                "fontStyle": ""
+                "foreground": "#f1f1f1"
             }
         },
         {
@@ -115,8 +115,8 @@
             "name": "Function argument",
             "scope": "variable.parameter",
             "settings": {
-                "fontStyle": "italic",
-                "foreground": "#FD971F"
+                "fontStyle": "bold",
+                "foreground": "#eb9022"
             }
         },
         {
@@ -179,7 +179,7 @@
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-                "background": "#FF9D27",
+                "background": "#eb9022",
                 "foreground": "#F8F8F0"
             }
         },
@@ -222,7 +222,7 @@
         {
             "scope": "constant.numeric.line-number.find-in-files - match",
             "settings": {
-                "foreground": "#FF9D27A0"
+                "foreground": "#eb9022A0"
             }
         },
         {
@@ -260,7 +260,7 @@
         {
             "scope": "punctuation.definition.list.begin.markdown",
             "settings": {
-                "foreground": "#FF9D27"
+                "foreground": "#eb9022"
             }
         },
         {
@@ -326,7 +326,7 @@
         "editor.inactiveSelectionBackground": "#3a3d41",
         "editor.selectionHighlightBackground": "#add6ff26",
         "editorGroupHeader.tabsBackground": "#1f2127",
-        "editorGutter.addedBackground": "#608b4e",
+        "editorGutter.addedBackground": "#498530",
         "editorGutter.deletedBackground": "#d16969",
         "editorGutter.modifiedBackground": "#d7ba7d",
         "editorIndentGuide.background": "#404040",
@@ -346,20 +346,20 @@
 		
 		//Terminal
         "terminal.foreground": "#f1f1f1",
-		"terminal.ansiBlack": "#505050",
-        "terminal.ansiBrightBlack": "#505050",
-        "terminal.ansiRed": "#f82a5d",
-        "terminal.ansiBrightRed": "#f82a5d",
-        "terminal.ansiGreen": "#98d800",
-        "terminal.ansiBrightGreen": "#98d800",
-        "terminal.ansiYellow": "#e7dc60",
-        "terminal.ansiBrightYellow": "#e7dc60",
-        "terminal.ansiBlue": "#49acce",
-        "terminal.ansiBrightBlue": "#49acce",
-        "terminal.ansiMagenta": "#f57f00",
-        "terminal.ansiBrightMagenta": "#f57f00",
-        "terminal.ansiCyan": "#a57fff",
-        "terminal.ansiBrightCyan": "#a57fff",
+		"terminal.ansiBlack": "#313131",
+        "terminal.ansiBrightBlack": "#313131",
+        "terminal.ansiRed": "#FF203B",
+        "terminal.ansiBrightRed": "#FF203B",
+        "terminal.ansiGreen": "#41ce3c",
+        "terminal.ansiBrightGreen": "#41ce3c",
+        "terminal.ansiYellow": "#ecda14",
+        "terminal.ansiBrightYellow": "#ecda14",
+        "terminal.ansiBlue": "#0687ff",
+        "terminal.ansiBrightBlue": "#0687ff",
+        "terminal.ansiMagenta": "#da1ac6",
+        "terminal.ansiBrightMagenta": "#da1ac6",
+        "terminal.ansiCyan": "#06c1ff",
+        "terminal.ansiBrightCyan": "#06c1ff",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiBrightWhite": "#ffffff",
 		
