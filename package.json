@@ -1,0 +1,30 @@
+{
+    "name": "4-colours",
+    "displayName": "4 Colours theme",
+    "publisher": "gpem",
+    "description": "4 Colours theme is based on an existing idea that the most important colours should be basic but well contrasted.",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#1f2127",
+        "theme": "dark"
+    },
+    "version": "1.0.2",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "author": {
+        "name": "gpem"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "4-Colours",
+                "uiTheme": "vs-dark",
+                "path": "./themes/4-Colours-color-theme.json"
+            }
+        ]
+    }
+}
