@@ -1,6 +1,6 @@
 # 4 Colours theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Installs](https://vsmarketplacebadge.apphb.com/installs/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Rating](https://vsmarketplacebadge.apphb.com/rating/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/gpem.4-colours?color=02b3e9)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Installs](https://img.shields.io/visual-studio-marketplace/i/gpem.4-colours?color=eb9022)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Rating](https://img.shields.io/visual-studio-marketplace/stars/gpem.4-colours?color=FF203B)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![License: MIT](https://img.shields.io/github/license/Germain-Gadel/4-colours?color=41ce3c)](https://opensource.org/licenses/MIT)
 
 ![Made in France](https://img.shields.io/badge/made%20in-France-008751.svg)
 
