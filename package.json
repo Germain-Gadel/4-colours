@@ -2,7 +2,10 @@
     "name": "4-colours",
     "displayName": "4 Colours theme",
     "publisher": "gpem",
-    "repository": "https://github.com/Germain-Gadel/4-colours",
+    "repository": {
+        "type": "url",
+        "url": "https://github.com/Germain-Gadel/4-colours",
+    },
     "description": "4 Colours theme is based on an existing idea that the most important colours should be basic but well contrasted.",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -27,5 +30,6 @@
                 "path": "./themes/4-Colours-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
