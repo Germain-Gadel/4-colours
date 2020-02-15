@@ -1,6 +1,6 @@
 # 4 Colours theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Installs](https://vsmarketplacebadge.apphb.com/version/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Rating](https://vsmarketplacebadge.apphb.com/rating/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
+[![Version](https://vsmarketplacebadge.apphb.com/version/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Installs](https://vsmarketplacebadge.apphb.com/installs/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![Rating](https://vsmarketplacebadge.apphb.com/rating/gpem.4-colours.svg)](https://marketplace.visualstudio.com/items?itemName=gpem.4-colours)  [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 
 
 ## Introduction
