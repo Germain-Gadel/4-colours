@@ -15,4 +15,7 @@ ext install gpem.4-colours
 ## Screenshot
 Screenshot of C
 
-![theme screenshot](https://github.com/Germain-Gadel/4-colours/raw/master/images/example.png)
+![theme screenshot blue](https://github.com/Germain-Gadel/4-colours/raw/master/images/Blue.png)
+![theme screenshot orange](https://github.com/Germain-Gadel/4-colours/raw/master/images/Orange.png)
+![theme screenshot red](https://github.com/Germain-Gadel/4-colours/raw/master/images/Red.png)
+![theme screenshot green](https://github.com/Germain-Gadel/4-colours/raw/master/images/Green.png)
