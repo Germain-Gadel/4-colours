@@ -4,7 +4,7 @@
     "publisher": "gpem",
     "repository": {
         "type": "url",
-        "url": "https://github.com/Germain-Gadel/4-colours",
+        "url": "https://github.com/Germain-Gadel/4-colours"
     },
     "description": "4 Colours theme is based on an existing idea that the most important colours should be basic but well contrasted.",
     "icon": "images/icon.png",
