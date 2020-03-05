@@ -7,7 +7,7 @@
 4 Colours theme is based on an existing idea that the most important colours should be basic but well contrasted.
 
 ## Install
-press `ctl/command + shift + p` to launch the command palette then run
+press `ctl/command + p` to launch the command palette then run
 ```
 ext install gpem.4-colours
 ```
