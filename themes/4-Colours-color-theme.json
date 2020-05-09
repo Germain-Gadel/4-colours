@@ -317,8 +317,10 @@
 		//VS Code Editor
         "editor.background": "#1f2127",
         "editor.foreground": "#f1f1f1",
-        "editor.inactiveSelectionBackground": "#3a3d41",
-        "editor.selectionHighlightBackground": "#add6ff26",
+        "editor.selectionHighlightBackground": "#7b98b623",
+        "editor.selectionBackground": "#c3d3e450",
+        "editor.wordHighlightBackground": "#7b98b623",
+        "editor.wordHighlightStrongBackground": "#69829c52",
         "editorGroupHeader.tabsBackground": "#1f2127",
         "editorGutter.addedBackground": "#498530",
         "editorGutter.deletedBackground": "#d16969",
