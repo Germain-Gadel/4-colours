@@ -3,25 +3,6 @@
 	"type": "dark",
     "tokenColors": [
         {
-            "settings": {
-                "foreground": "#FFFFFF",
-                "background": "#000c18",
-                "caret": "#F8F8F0",
-                "invisibles": "#3B3A32",
-                "lineHighlight": "#2c120b",
-                "selection": "#2c120b",
-                "findHighlight": "#FFE792",
-                "findHighlightForeground": "#000000",
-                "selectionBorder": "#222218",
-                "activeGuide": "#9D550FB0",
-                "bracketsForeground": "#F8F8F2A5",
-                "bracketsOptions": "underline",
-                "bracketContentsForeground": "#F8F8F2A5",
-                "bracketContentsOptions": "underline",
-                "tagsOptions": "stippled_underline"
-            }
-        },
-        {
             "name": "Comment",
             "scope": "comment",
             "settings": {
@@ -170,7 +151,6 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#FF203B",
                 "fontStyle": "bold",
                 "foreground": "#F8F8F0"
             }
@@ -179,7 +159,6 @@
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-                "background": "#eb9022",
                 "foreground": "#F8F8F0"
             }
         },
@@ -201,7 +180,6 @@
             "name": "diff.deleted",
             "scope": "markup.deleted",
             "settings": {
-                "background": "#FF203B",
                 "foreground": "#FF203B"
             }
         },
@@ -301,12 +279,17 @@
 		//VS Code layout
         "activityBarBadge.background": "#41ce3c",
         "activityBarBadge.foreground": "#202020",
+
         "diffEditor.insertedTextBorder": "#608b4e",
-		"diffEditor.removedTextBorder": "#d16969",
-        "list.dropBackground": "#383b3d",
-        
-        "sideBar.background": "#2a2d35",
+        "diffEditor.removedTextBorder": "#d16969",
+
+        "list.dropBackground": "#0886da",
+
+        "sideBar.background": "#262830",
+        "sideBarSectionHeader.background": "#2a2d35",
         "sideBarTitle.foreground": "#bbbbbb",
+
+        "notifications.background":"#262830",
 
         "statusBar.background": "#1d1e24",
         "statusBar.debuggingBackground": "#139add",
@@ -319,6 +302,10 @@
         "titleBar.activeForeground": "#ffffff",
         "titleBar.inactiveBackground": "#1f2127",
         "titleBar.inactiveForeground": "#ffffff54",
+
+        "dropdown.background": "#262830",
+
+        "debugExceptionWidget.background": "#262830",
 
 		//VS Code Editor
         "editor.background": "#1f2127",
@@ -334,16 +321,14 @@
         "editorOverviewRuler.deletedForeground": "#d16969",
         "editorOverviewRuler.modifiedForeground": "#d7ba7d",
         "editorCursor.foreground": "#fde90e",
-		
+
 		//Git
         "gitDecoration.conflictingResourceForeground": "#d16969",
         "gitDecoration.deletedResourceForeground": "#d7ba7d",
         "gitDecoration.ignoredResourceForeground": "#808080",
         "gitDecoration.modifiedResourceForeground": "#608b4e",
         "gitDecoration.untrackedResourceForeground": "#d7ba7d",
-        
-        
-		
+
 		//Terminal
         "terminal.foreground": "#f1f1f1",
 		"terminal.ansiBlack": "#313131",
@@ -362,7 +347,7 @@
         "terminal.ansiBrightCyan": "#06c1ff",
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiBrightWhite": "#ffffff",
-		
+
 		//tab
 		// "tab.border": "#ff0000",
         "tab.activeBackground": "#1f2127",
@@ -374,6 +359,6 @@
         // "tab.inactiveForeground": "#FFFFFF",
         "tab.unfocusedActiveBackground": "#1f2127",
         // "tab.unfocusedInactiveForeground": "#FFFFFF",
-        
+
     }
 }
