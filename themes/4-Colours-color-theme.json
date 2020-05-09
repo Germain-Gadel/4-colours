@@ -65,7 +65,7 @@
             "scope": "storage.type",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#06c1ff"
+                "foreground": "#02b3e9"
             }
         },
         {
@@ -290,9 +290,16 @@
         "sideBarTitle.foreground": "#bbbbbb",
 
         "notifications.background":"#262830",
+        "editorWidget.background": "#262830",
+        "debugToolBar.background": "#262830",
+
+        "input.background": "#454856",
+        "list.focusBackground": "#454856",
+        "pickerGroup.foreground": "#87d7ff",
+
 
         "statusBar.background": "#1d1e24",
-        "statusBar.debuggingBackground": "#139add",
+        "statusBar.debuggingBackground": "#02b3e9",
         "statusBar.noFolderBackground": "#1f2127",
 
         "activityBar.background": "#1f2127",
