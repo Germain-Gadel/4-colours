@@ -280,8 +280,8 @@
         "activityBarBadge.background": "#41ce3c",
         "activityBarBadge.foreground": "#202020",
 
-        "diffEditor.insertedTextBorder": "#608b4e",
-        "diffEditor.removedTextBorder": "#d16969",
+        "diffEditor.insertedTextBorder": "#41ce3c",
+        "diffEditor.removedTextBorder": "#FF203B",
 
         "list.dropBackground": "#0886da",
 
@@ -323,21 +323,21 @@
         "editor.wordHighlightBackground": "#7b98b623",
         "editor.wordHighlightStrongBackground": "#69829c52",
         "editorGroupHeader.tabsBackground": "#1f2127",
-        "editorGutter.addedBackground": "#498530",
-        "editorGutter.deletedBackground": "#d16969",
-        "editorGutter.modifiedBackground": "#d7ba7d",
+        "editorGutter.addedBackground": "#41ce3c",
+        "editorGutter.deletedBackground": "#FF203B",
+        "editorGutter.modifiedBackground": "#eb9022",
         "editorIndentGuide.background": "#404040",
-        "editorOverviewRuler.addedForeground": "#608b4e",
-        "editorOverviewRuler.deletedForeground": "#d16969",
-        "editorOverviewRuler.modifiedForeground": "#d7ba7d",
+        "editorOverviewRuler.addedForeground": "#41ce3c",
+        "editorOverviewRuler.deletedForeground": "#FF203B",
+        "editorOverviewRuler.modifiedForeground": "#eb9022",
         "editorCursor.foreground": "#fde90e",
 
 		//Git
-        "gitDecoration.conflictingResourceForeground": "#d16969",
-        "gitDecoration.deletedResourceForeground": "#d7ba7d",
+        "gitDecoration.conflictingResourceForeground": "#FF203B",
+        "gitDecoration.deletedResourceForeground": "#eb9022",
         "gitDecoration.ignoredResourceForeground": "#808080",
-        "gitDecoration.modifiedResourceForeground": "#608b4e",
-        "gitDecoration.untrackedResourceForeground": "#d7ba7d",
+        "gitDecoration.modifiedResourceForeground": "#41ce3c",
+        "gitDecoration.untrackedResourceForeground": "#eb9022",
 
 		//Terminal
         "terminal.foreground": "#f1f1f1",
@@ -359,16 +359,11 @@
         "terminal.ansiBrightWhite": "#ffffff",
 
 		//tab
-		// "tab.border": "#ff0000",
         "tab.activeBackground": "#1f2127",
 		"tab.inactiveBackground": "#1f2127",
         "tab.hoverBackground": "#1f2127",
         "tab.border": "#1f2127",
         "tab.activeBorder": "#fde50f",
-        // "tab.activeForeground": "#1f2127",
-        // "tab.inactiveForeground": "#FFFFFF",
         "tab.unfocusedActiveBackground": "#1f2127",
-        // "tab.unfocusedInactiveForeground": "#FFFFFF",
-
     }
 }
