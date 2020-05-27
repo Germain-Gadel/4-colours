@@ -310,6 +310,7 @@
         "list.dropBackground": "#0886da",
         "list.focusBackground": "#454856",
         "list.hoverBackground": "#3c3f4d",
+		"list.activeSelectionBackground": "#3c3f4d",
         "notifications.background": "#262830",
         "editorWidget.background": "#262830",
         "input.background": "#454856",
