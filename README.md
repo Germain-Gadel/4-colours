@@ -4,16 +4,17 @@
 
 
 ## Introduction
-4 Colours theme is based on an existing idea that the most important colours should be basic but well contrasted.
+4 Colours theme is based on an idea that the most important colours should be basic but well contrasted.
 
-## Install
-press `ctl/command + p` to launch the command palette then run
-```
-ext install gpem.4-colours
-```
 
 ## Screenshot
 ![theme screenshot blue](https://github.com/Germain-Gadel/4-colours/raw/master/images/Blue.png)
 ![theme screenshot orange](https://github.com/Germain-Gadel/4-colours/raw/master/images/Orange.png)
 ![theme screenshot red](https://github.com/Germain-Gadel/4-colours/raw/master/images/Red.png)
 ![theme screenshot green](https://github.com/Germain-Gadel/4-colours/raw/master/images/Green.png)
+
+## Install
+press `ctl/command + p` to launch the command palette then run
+```
+ext install gpem.4-colours
+```

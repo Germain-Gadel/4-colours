@@ -318,6 +318,8 @@
         "dropdown.background": "#262830",
         "debugExceptionWidget.background": "#262830",
         "debugToolBar.background": "#262830",
+        "focusBorder": "#454856",
+        "textLink.foreground": "#06c1ff",
         //VS Code Editor
         "editor.background": "#1f2127",
         "editor.foreground": "#f1f1f1",
