@@ -1,4 +1,4 @@
-# 4 Colours theme
+# 4 Colours
 
 <p align="center">
     <img width="128" height="128" src="https://github.com/Germain-Gadel/4-colours/raw/master/images/icon.png">
