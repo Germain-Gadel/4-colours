@@ -6,10 +6,10 @@
         "type": "url",
         "url": "https://github.com/Germain-Gadel/4-colours"
     },
-    "description": "4 Colours theme is based on an idea that the most important colours should be basic but well contrasted.",
+    "description": "4 Colours is colorful and dark at the same time.",
     "icon": "images/icon.png",
     "galleryBanner": {
-        "color": "#1f2127",
+        "color": "#262830",
         "theme": "dark"
     },
     "version": "1.1.24",

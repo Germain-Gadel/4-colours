@@ -31,10 +31,10 @@
 </p>
 
 ## Introduction
-4 Colours theme is based on an idea that the most important colours should be basic but well contrasted.
+4 Colours is colorful and dark at the same time.
 
 
-## Screenshot
+## Screenshots
 ![theme screenshot blue](https://github.com/Germain-Gadel/4-colours/raw/master/images/Blue.png)
 ![theme screenshot orange](https://github.com/Germain-Gadel/4-colours/raw/master/images/Orange.png)
 ![theme screenshot red](https://github.com/Germain-Gadel/4-colours/raw/master/images/Red.png)
