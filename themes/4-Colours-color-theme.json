@@ -87,7 +87,7 @@
             "name": "Inherited class",
             "scope": "entity.other.inherited-class",
             "settings": {
-                "fontStyle": "italic underline",
+                "fontStyle": "underline",
                 "foreground": "#41ce3c"
             }
         },
@@ -150,7 +150,7 @@
             "name": "Library class/type",
             "scope": "support.type, support.class",
             "settings": {
-                "fontStyle": "italic bold",
+                "fontStyle": "bold",
                 "foreground": "#02b3e9"
             }
         },
